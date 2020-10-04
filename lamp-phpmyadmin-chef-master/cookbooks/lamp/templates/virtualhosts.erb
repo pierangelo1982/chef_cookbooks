@@ -1,0 +1,10 @@
+<VirtualHost *:<%= @port %>>
+        ServerAdmin <%= @serveradmin %>
+        ServerName <%= @servername %>
+        ServerAlias www.<%= @servername %>
+        DocumentRoot <%= @document_root %>
+        ErrorLog <%= @apache_log_root %>/error.log
+        <Directory <%= @document_root %>>
+                Require all granted
+        </Directory>
+</VirtualHost>

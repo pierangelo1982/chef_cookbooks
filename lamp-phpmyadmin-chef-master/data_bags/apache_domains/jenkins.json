@@ -1,0 +1,6 @@
+{
+  "id": "jenkins",
+  "port": "80",
+  "domain": "jenkins.web-dev.info",
+  "serveradmin": "pierangelo1982@gmail.com"
+}

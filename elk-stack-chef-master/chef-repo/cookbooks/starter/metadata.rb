@@ -1,0 +1,5 @@
+name 'starter'
+description 'A basic starter cookbook'
+version '1.0.1'
+maintainer 'Orizio Pierangelo'
+maintainer_email 'pierangelo1982@gmail.com'

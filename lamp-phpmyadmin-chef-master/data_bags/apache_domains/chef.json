@@ -1,0 +1,6 @@
+{
+  "id": "chef",
+  "port": "80",
+  "domain": "chef.web-dev.info",
+  "serveradmin": "pierangelo1982@gmail.com"
+}
